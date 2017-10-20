@@ -38,6 +38,8 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [Remote Year](https://remoteyear.com/) | Work remotely from anywhere in the world. Travel, live, and work in a different remote city around the globe each month for a year. |
 | ❇️ | [Product Hunt](https://www.producthunt.com/jobs) | Build and Hunt new products, join the best startups and build amazing products all over the world. |
 | ❇️ | [Indeed.com](https://www.indeed.com/q-Remote-Programming-jobs.html) | Employer's offers of remote programming jobs. |
+| ❇️ | [ZipRecruiter](https://www.ziprecruiter.com) | With over 8 million jobs, ZipRecruiter is the only site you'll ever need to find your next job. |
+| ❇️ | [Work Remotely](https://workremotely.io) | Work Remotely is the best place for remote companies to find talented team members, wherevery they may be. |
 
 
 ### 🔨 Freelancing
